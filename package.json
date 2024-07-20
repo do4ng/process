@@ -1,6 +1,13 @@
 {
   "name": "@do4ng/process",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "repository": "https://github.com/do4ng/process",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "main": "./index.js",
+  "types": "./index.d.ts",
   "devDependencies": {
     "@types/node": "^20.14.11"
   },
