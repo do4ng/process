@@ -1,0 +1,10 @@
+{
+  "name": "@do4ng/process",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@types/node": "^20.14.11"
+  },
+  "dependencies": {
+    "chalk": "4.1.2"
+  }
+}
